@@ -1,0 +1,6 @@
+---
+title: "Antología de la poesía cósmica de Regino Pedroso"
+key: "IM4I4M29"
+author: Pedroso, Regino; Canal, Fredo Arias de la
+---
+<div data-schema-version="9"><p><strong>PARABOLA DE LA MUJER SEDIENTA</strong> </p> <p>-Señor, estoy <strong>sedienta</strong>. Como la tierra <strong>seca</strong>,<br>mi alma, <strong>ardiente</strong> espera la bendición del <strong>riego</strong>; <br>soy ansia y <strong>fiebre</strong> toda, <strong>devoradora llama</strong>; <br>el <strong>pozo</strong> es hondo, y sola, junto al brocal, <strong>sed</strong> tengo. </p> <p>-Yo calmaré tus ansias, mitigaré tus <strong>fiebres</strong>.<br>Mujer, soy <strong>agua</strong> viva de amor, ten fe, que luego, <br>en tu alma, como un hondo milagro de infinito, <br>haré brotar <strong>la linfa de un manantial</strong> eterno. </p> <p>Así, bajo los cielos de <strong>estrellas</strong> florecidos,<br>hablóle el Cristo, y era, frente al azul sereno,<br>frescura bienhechora de paz cada parábola... </p> <p>Un <strong>halo de luz</strong> alba rielaba en el sendero, <br>y el alma aquella, ansiosa de amor, su <strong>sed</strong> calmaba <br>del <strong>agua</strong> que era el Verbo divino del Maestro.</p> </div>

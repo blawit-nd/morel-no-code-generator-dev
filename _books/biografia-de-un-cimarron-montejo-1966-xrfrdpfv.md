@@ -1,0 +1,6 @@
+---
+title: "Biografía de un cimarrón"
+key: "XRFRDPFV"
+author: Montejo, Esteban; Barnet, Miguel
+---
+<div data-schema-version="9"><p>Los dioses más fuertes son los de África. Yo digo que es <em>positivo</em> que volaban. Y hacían lo que les daba la gana con las hechicerías. No sé cómo permitieron la esclavitud. La verdad es que yo me pongo a pensar y no doy pie con bola. Para mí que todo empezó cuando los pañuelos <em>punzó</em>. El día que cruzaron la muralla. La muralla era vieja en África. Pero el punzó los hundió a todos. Y los reyes y todos los demás se entregaron facilito. Cuando los reyes veían que los blancos, yo creo que los portugueses fueron los pri-meros, sacaban los pañuelos punzo como saludando, les decían a los negros: "Anda, ve a buscar pañuelo punzó, anda". Y los negros, embullados con el punzó, corrían como ovejitas para los barcos y ahí mismo los cogían. Al negro siempre le ha gustado mucho el punzó. Por culpa de ese color les pusieron las cadenas y los mandaron para Cuba. Y después no pudieron volver a su tierra. Ésa es la razón de la esclavitud en Cuba.</p> </div>

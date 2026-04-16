@@ -1,0 +1,6 @@
+---
+title: "Perdido en el museo de historia natural / Lost in the Museum of Natural History"
+key: "G4FE4UPC"
+author: Pietri, Pedro
+---
+<div data-schema-version="9"><p><span style="color: rgb(85, 85, 85);"><span style="background-color: rgb(255, 255, 255);">Hacía un día lindo en la playa. Era el día más caluroso del año, la temperatura andaba por los 90. De todos los rincones de las áreas de desastre metropolitanas donde hace frío el año entero se tiró a la calle este sábado super caliente una multitud récord que quería socializar con el sol, cuya fiebre era increíble. Honrados obreros de barrios nocivos a la salud escapando de las jodiendas y agonía eternas de los campos de batalla asfaltados donde han sido confinados por sus niveles de vida bajo el promedio. Hoy sus cobradores serán enterrados en fosas comunes de cementerios mentales. Lo único que tendrán presente de sus interminables condiciones de vida será la combinación que jugaron en la bolita temprano en la mañana antes de venir a la playa en incómoda transportación pública, o en carros usados cuyas baterías se agotaron de camino en el tapón.</span></span></p> </div>
