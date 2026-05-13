@@ -2,7 +2,7 @@
 title: template
 lang: en
 ---
-{{ site.title}} is a resource for readers, writers, publishers, students and teachers interested in Afro-American and Latin American culture in general, and Afro-Latin American culture in particular. It gathers book covers, excerpts, bibliographic clues and digital downloads of works by black Latin American authors in original language and in translation. 
+{{ site.title}} is a resource for readers, writers, publishers, students and teachers interested in  Black American and Latin American culture in particular. It gathers book covers, excerpts, bibliographic clues and digital downloads of works by Black Latin American authors in original language and in translation. 
 
 <!-- more -->
 
