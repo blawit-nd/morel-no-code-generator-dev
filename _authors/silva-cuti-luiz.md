@@ -1,3 +1,0 @@
----
-title: Silva "Cuti", Luiz
----

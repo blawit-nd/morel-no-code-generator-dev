@@ -1,3 +1,0 @@
----
-title: Pietri, Pedro
----

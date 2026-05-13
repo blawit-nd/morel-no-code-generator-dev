@@ -1,3 +1,0 @@
----
-title: Fundación Biblioteca Ayacucho
----
