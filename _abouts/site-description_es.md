@@ -10,9 +10,9 @@ La colección se organiza por listas dinámicas, que agrupan las obras de acuerd
 - [autores]({{site.BASE_PATH}}/criteria/autor)
 - [ciudad de edición]({{site.BASE_PATH}}/criteria/ciudad)
 - [imprenta o editorial]({{site.BASE_PATH}}/criteria/editorial)
-- [fecha de edición]({{site.BASE_PATH}}/criteria/edicion).
+- [fecha de edición]({{site.BASE_PATH}}/criteria/edicion)
 - [nacionalidad de las autoras]({{site.BASE_PATH}}/criteria/nationality)
-- [repositorio digital]({{site.BASE_PATH}}/criteria/repository).
+- [repositorio digital]({{site.BASE_PATH}}/criteria/repository)
 
 
 Adicionalmente,cuenta con un [buscador]({{site.BASE_PATH}}/search) que permite encontrar obras directamente por el título.
