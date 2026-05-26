@@ -2195,7 +2195,21 @@
             </url>
             
             <url>
+                <loc>/criteria/nationality</loc>
+                <lastmod>2026-05-26</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
                 <loc>/criteria/publisher</loc>
+                <lastmod>2026-05-26</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.5</priority>
+            </url>
+            
+            <url>
+                <loc>/criteria/repository</loc>
                 <lastmod>2026-05-26</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.5</priority>
