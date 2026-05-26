@@ -2,18 +2,18 @@
             <div class="ficha-container" style="">
                 <div class="ficha-title">
                     <h2>
-                        Sobre {{ site.title}}
+                        About {{ site.title}}
                     </h2>
                 </div>
                 <div class="ficha-extract" style="">
                     {% for about in site.abouts %}
                     {% if about.title == "description" %}
-                    {% if about.lang == "es" %%}
+                    {% if about.lang == "en" %%}
                     {{ about.excerpt }}
                     {% endif %}
                     {% endif %}
                     {% endfor %}
-                    {% include ver-mas-prom.html %}
+                    {% include see-more-prom.html %}
                 </div>
                 <div class="ficha-metadata">
                 </div>

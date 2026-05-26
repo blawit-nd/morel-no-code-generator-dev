@@ -1,2 +1,2 @@
 # theme: morel-theme
-BASE_PATH: /BibAV
+BASE_PATH: /morel-no-code-generator-dev # add a slash before and **don't** add a slash ("/") after the root of the subdomain
