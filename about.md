@@ -1,6 +1,6 @@
 ---
 layout: about
-title: MOREL
+title: BLAWiT
 ---
 
 {% include_relative README.md %}
