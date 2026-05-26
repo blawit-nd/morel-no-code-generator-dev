@@ -1,7 +1,7 @@
   <!--lista 1 -->
         <div class="row">
             <!--LOOP DE LISTA 1-->
-            {% assign books = site.data.books | where_exp: "book", "book.Translator and book.Translator != ''" | sample: 7  %}
+            {% assign books = site.data.books | where_exp: "book", "book.Series == 'tr'" | sample: 7  %}
             {% for book in books %}
             {% include book-list-base.html %}
             {% endfor %}
@@ -9,15 +9,8 @@
                 <div class="container">
                     <label for="listas"><img src="{{ site.BASE_PATH }}/assets/img/tema/+obras.png" class="image sombra"></label>
                     <div>
-                        {% if books.size > 7 %}
-                        {% if site.lang == "es" %}
-                        {% assign target = "traducciones" %}
-                        {% include ver-mas.html %}
-                        {% else %}
-                        {% assign target = "translations" %}
-                        {% include see-more.html %}
-                        {% endif %}
-                        {% endif %}
+                            {% assign target = "translations" %}
+                            {% include see-more.html %}
                     </div>
                 </div> 
             </div>

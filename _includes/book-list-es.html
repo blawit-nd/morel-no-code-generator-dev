@@ -1,7 +1,7 @@
   <!--lista 1 -->
         <div class="row">
             <!--LOOP DE LISTA 1-->
-            {% assign books_size = site.data.books | where_exp: "book", "book.Language == 'es'"%}
+            {% assign books_size = site.data.books | where_exp: "book", "book.Language == 'es' or book.Language == 'spa'"%}
             {% assign books = books_size| sample: 15 %}
             {% for book in books %}
             {% include book-list-base.html %}
