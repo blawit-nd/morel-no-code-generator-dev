@@ -1,4 +1,4 @@
-The collection is developed to promote Afro-Latin American Writers in Translation: a series of critial editions of celebrated works in translation coordinated by professor Mark A. Sanders and aimed to advance research and academic reflection on the Black presence in Latin America and its influence across the Americas.
+The collection is developed to promote Black-Latin American Writers in Translation: a series of critial editions of celebrated works in translation coordinated by professor Mark A. Sanders and aimed to advance research and academic reflection on the Black presence in Latin America and its influence across the Americas.
 
 BLAWiT is organized by dynamic lists, which group the works according to common characteristics ([authors](https://blawit.org/chriteria/author), [city of publication](https://blawit.org/chriteria/city), [imprint or publisher](https://blawit.org/chriteria/publisher), [nationality of authors](https://blawit.org/chriteria/nationality), [edition date](https://blawit.org/chriteria/edition), and [digital repository](https://blawit.org/chriteria/repository). But it also has a search engine that allows you to find works directly.
 
